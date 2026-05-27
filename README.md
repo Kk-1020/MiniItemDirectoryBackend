@@ -6,7 +6,6 @@ the **backend**; the Angular frontend is in a separate repository.
 
 ## Live demo
 
-- **App (frontend):** https://miniitemdirectoryfrontend.onrender.com
 - **API (this service):** https://miniitemdirectorybackend.onrender.com
 
 Frontend repo: https://github.com/Kk-1020/MiniItemDirectoryFrontEnd
