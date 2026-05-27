@@ -103,7 +103,7 @@ CI/CD — the app itself is a plain Spring Boot project.
 
 ## Approximate hours spent
 
-~5 hours (build, environment setup, deployment, and documentation).
+~3 hours
 
 ## Use of AI coding tools
 
