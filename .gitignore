@@ -1,0 +1,20 @@
+# --- Backend (Maven / Java) ---
+backend/target/
+*.class
+
+# --- Frontend (Angular / Node) ---
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# --- Secrets (do not commit) ---
+*.env
+.env
+*.pem
+*.key
+
+# --- IDE / OS ---
+.idea/
+.vscode/
+*.iml
+.DS_Store
